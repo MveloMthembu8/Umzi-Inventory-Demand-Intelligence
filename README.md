@@ -246,7 +246,7 @@ With real business data, further investigation could include:
 
 Mvelo Asanda Mthembu
 
-[LinkedIn Profile]((https://www.linkedin.com/in/mvelo-asa-mthembu/)) · [Email](mailto:mvelo.asamthembu@gmail.com)
+[LinkedIn Profile](https://www.linkedin.com/in/mvelo-asa-mthembu/) · [Email](mailto:mvelo.asamthembu@gmail.com)
 
 ---
 
