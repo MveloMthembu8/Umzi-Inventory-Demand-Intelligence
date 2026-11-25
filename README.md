@@ -6,7 +6,7 @@ The project covers January 2024 to December 2025 and uses Python for data prepar
 
 **Dashboard**
 
-![Dashboard Overview](screenshots/Umzi.Dashboard.png)
+![Dashboard Overview](screenshots/Umzi_Dashboard.png)
 
 ## Project Deliverables
 
