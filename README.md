@@ -4,9 +4,9 @@ An end-to-end analysis of inventory, sales and supplier performance for **Umzi W
 
 The project covers January 2024 to December 2025 and uses Python for data preparation and exploration, PostgreSQL for structured querying, Microsoft Excel for summary reporting and Power BI for interactive business intelligence.
 
-**Dashboard:** [Insert published Power BI report or PDF link]
+**Dashboard**
 
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshots/Umzi.Dashboard.png)
 
 ## Project Deliverables
 
@@ -246,7 +246,7 @@ With real business data, further investigation could include:
 
 Mvelo Asanda Mthembu
 
-[LinkedIn Profile](YOUR-LINKEDIN-URL) · [Email](mailto:YOUR-EMAIL-ADDRESS)
+[LinkedIn Profile]((https://www.linkedin.com/in/mvelo-asa-mthembu/)) · [Email](mailto:mvelo.asamthembu@gmail.com)
 
 ---
 
